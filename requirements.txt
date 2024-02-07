@@ -101,6 +101,8 @@ tzlocal==5.1
 urllib3==2.0.6
 validators==0.22.0
 watchdog==3.0.0
+tensorflow
+
 Werkzeug==3.0.0
 wrapt==1.14.1
 zipp==3.17.0
